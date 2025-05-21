@@ -1,23 +1,4 @@
-<p align="center">
-        <img src="dnu_logo.png" alt="DaiNam University Logo" width="200"/>
-    </p>
-    <h2 align="center">
-    <a href="https://dainam.edu.vn/vi/khoa-cong-nghe-thong-tin">
-    🎓 Faculty of Information Technology (DaiNam University)
-    </a>
-</h2>
-<br>
-<h2 align="center">
-   CRYPTOGRAPHY AND CYBER SECURITY
-</h2>
-<br>
-<div align="center">
-    <p align="center">
-        <img src="aiotlab_logo.png" alt="AIoTLab Logo" width="170"/>
-        <img src="fitdnu_logo.png" alt="AIoTLab Logo" width="180"/>
-        <img src="dnu_logo.png" alt="DaiNam University Logo" width="200"/>
-    </p>
-</div>
+Chương trình mã hoá và giải mã bằng thuật toán AES
     
 ![image](https://github.com/user-attachments/assets/0183db54-9235-4912-8f3c-ddccfc74bcba)
 ![image](https://github.com/user-attachments/assets/7e1c44dc-eda9-443e-8702-9ce81d390c5a)
